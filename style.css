@@ -1,0 +1,37 @@
+.heading
+{
+font-size: 18px;
+width: 100%;
+margin: 0px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#object_name
+{
+    margin: 30px;
+    color: blue;
+    width: 300px;
+}
+
+button
+{
+    background-color: aqua;
+    border: black;
+    border-width: 5px;
+    color: black;
+}
+
+
+
+canvas
+{
+    border: 2px solid yellow;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px darkgrey;
+}
